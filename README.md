@@ -19,10 +19,17 @@
 ## Installation
 
 mkdir build
+
 cd build
+
 cmake ..
+
 cmake --build .
 
-mesh instruction:
+## Execution
 
-place one or multiple .obj triangle meshes in the folder inputBoundaries and run the program
+place one or multiple .obj triangle meshes in the folder inputBoundaries
+
+run the program
+
+multiple output files will be generated in the folder outputFiles
