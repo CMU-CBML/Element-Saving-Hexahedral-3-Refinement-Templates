@@ -14,8 +14,7 @@
 }
 ```
 
-build instruction:
-
+# Installation
 mkdir build
 cd build
 cmake ..
