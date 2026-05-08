@@ -1,8 +1,10 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cagd.2026.102550-blue)](https://doi.org/10.1016/j.cagd.2026.102550)
 # Element-Saving-Hexahedral-3-Refinement-Templates
+
 ![teaser](teaser.jpg)
 
-# Citation
+## Citation
+
 ```angular2html
 @article{tong2026element,
   title={Element-saving hexahedral 3-refinement templates},
@@ -14,7 +16,8 @@
 }
 ```
 
-# Installation
+## Installation
+
 mkdir build
 cd build
 cmake ..
