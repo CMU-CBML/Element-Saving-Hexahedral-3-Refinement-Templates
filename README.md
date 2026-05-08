@@ -2,6 +2,18 @@
 # Element-Saving-Hexahedral-3-Refinement-Templates
 ![teaser](teaser.jpg)
 
+# Citation
+```angular2html
+@article{tong2026element,
+  title={Element-saving hexahedral 3-refinement templates},
+  author={Tong, Hua and Zhang, Yongjie Jessica},
+  journal={Computer Aided Geometric Design},
+  pages={102550},
+  year={2026},
+  publisher={Elsevier}
+}
+```
+
 build instruction:
 
 mkdir build
