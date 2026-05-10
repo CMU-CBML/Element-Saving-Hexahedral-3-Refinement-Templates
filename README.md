@@ -28,8 +28,14 @@ cmake --build .
 
 ## Execution
 
-place one or multiple input .obj triangle meshes in the folder inputBoundaries
+Place one or multiple input .obj triangle meshes in the folder inputBoundaries.
 
-run the program
+Run the program.
 
-multiple output .vtk hexahedral meshes will be generated in the folder outputFiles
+Multiple output .vtk hexahedral meshes will be generated in the folder outputFiles.
+
+The output hex meshes, after removing outside elements, can be optimized using any post-optimization tools.
+
+## Report
+
+Please report any problems in Issues.
