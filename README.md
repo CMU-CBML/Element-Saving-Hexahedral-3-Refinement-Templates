@@ -28,8 +28,8 @@ cmake --build .
 
 ## Execution
 
-place one or multiple .obj triangle meshes in the folder inputBoundaries
+place one or multiple input .obj triangle meshes in the folder inputBoundaries
 
 run the program
 
-multiple output files will be generated in the folder outputFiles
+multiple output .vtk hexahedral meshes will be generated in the folder outputFiles
